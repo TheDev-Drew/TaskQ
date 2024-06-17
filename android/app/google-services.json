@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238859431374",
+    "project_id": "taskq-app-project",
+    "storage_bucket": "taskq-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238859431374:android:8eea7a24a672243b9a0f9f",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqNAmLVzto4bDhXSwXuq2frtnfIYtA8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
